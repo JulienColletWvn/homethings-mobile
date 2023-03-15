@@ -1,0 +1,4 @@
+.env
+.expo
+.DS_Store
+node_modules
